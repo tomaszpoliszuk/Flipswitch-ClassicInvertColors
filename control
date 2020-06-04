@@ -1,9 +1,14 @@
 Package: com.tomaszpoliszuk.flipswitchclassicinvertcolors
 Depends: firmware (>= 12.0), mobilesubstrate, com.a3tweaks.flipswitch
 Name: Flipswitch - Classic Invert Colors
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Flipswitch toggle for Classic Invert Colors
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flipswitchclassicinvertcolorsDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flipswitchclassicinvertcolorsDp
+Maintainer: BigBoss <bigboss@thebigboss.org>
 Author: Tomasz Poliszuk
+Sponsor: thebigboss.org <http://thebigboss.org>
 Section: Addons (Flipswitch)
 dev: tomaszpoliszuk
+Tag: purpose::extension, compatible::ios12, compatible::ios13
